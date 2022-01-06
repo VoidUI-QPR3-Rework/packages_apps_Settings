@@ -103,4 +103,9 @@
 
     <!-- Screen resolution -->
     <string name="custom_screen_resolution_title">Custom screen resolution</string>
+
+    <!-- QS Battery estimates -->
+    <string name="qs_show_battery_estimate_title">Battery estimates</string>
+    <string name="qs_show_battery_estimate_summary_on">Showing battery estimates in QS</string>
+    <string name="qs_show_battery_estimate_summary_off">Battery estimates in QS is hidden</string>
 </resources>
