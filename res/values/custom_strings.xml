@@ -118,4 +118,7 @@
     <!-- Pocket mode -->
     <string name="proximity_wake_title">Prevent accidental wake-up</string>
     <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+
+    <!-- Text shown for the title of the restart systemui option -->
+    <string name="power_menu_restart_systemui_title">Restart SystemUI</string>
 </resources>
